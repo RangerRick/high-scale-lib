@@ -11,7 +11,7 @@
   <groupId>com.raccoonfink</groupId>
   <artifactId>high-scale-lib</artifactId>
   <packaging>jar</packaging>
-  <version>2.0.0</version>
+  <version>2.0.1-SNAPSHOT</version>
   <name>high-scale-lib</name>
   <description>This is a fork of Boundary's fork of Cliff Click's high scale lib.  I will not be maintaining it, I just needed a version that didn't shadow java.util.* so JDK17 doesn't barf. ;)</description>
   <url>https://github.com/RangerRick/high-scale-lib</url>
